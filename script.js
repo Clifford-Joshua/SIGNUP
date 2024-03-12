@@ -76,7 +76,7 @@ btn.forEach((Eachbtn) => {
         Upassword.value = storedpw;
       } else {
         e.preventDefault();
-        alert("click remember me to input your details");
+        alert("Please sorry for the inconvenience but kindly click on the remember me to input your details");
       }
     }
   });
